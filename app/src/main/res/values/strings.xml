@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="id">아이디</string>
+    <string name="editId">아이디를 입력 하세요</string>
+    <string name="password">비밀 번호</string>
+    <string name="editPassword">비밀 번호를 입력 하세요</string>
+    <string name="login">로그인</string>
+    <string name="memberShip">회원 가입</string>
+    <string name="name">이름</string>
+    <string name="age">나이</string>
+    <string name="mbti">mbti</string>
+    <string name="editName">이름을 입력 하세요</string>
+    <string name="editAge">나이를 입력하세요</string>
+    <string name="editMbti">mbti를 입력 하세요</string>
+    <string name="editMember">회원 가입 완료</string>
+    <string name="close">닫기</string>
+    <string name="member_modify">회원 정보 수정 완료</string>
+</resources>
